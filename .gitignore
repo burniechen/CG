@@ -1,4 +1,5 @@
 PPT
 hw1_release
-*.entitlement
+*.entitlements
 *.DS_Store
+*.zip
